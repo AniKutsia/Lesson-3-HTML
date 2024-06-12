@@ -1,0 +1,163 @@
+/*header style*/
+
+.logo {
+    width: 100px;
+    padding-top: 38px;
+    padding-bottom: 32;
+   
+}
+
+
+
+/*nav element*/
+
+.navigation{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 712px;
+      
+}
+
+.nav-li {
+    display: inline-block;
+    margin-left: 150px;
+    
+    
+    
+}
+
+.logo-item{
+   vertical-align: middle;
+   margin-left: 30px;
+    
+}
+
+.img-banner{
+    width: 100%;
+    display: inline-block;
+    margin-top: 30px;
+
+}
+
+.img-container{
+    padding-left: 130px;
+    padding-right: 130px;
+    background-color: pink;
+    padding-top: 121px;
+    padding-bottom: 121px;
+    
+    
+}
+
+.image-el{
+    width: 380px;
+    margin-left:20px ;
+    
+    
+}
+
+/*footer elements*/
+.footer-bg{
+    background-color: aqua;
+    padding-left: 130px;
+   
+   
+}
+.left-block-footer{
+    display: inline-block;
+    vertical-align: middle;
+    padding-top: 51px;
+    padding-bottom: 50px;
+
+    
+    
+}
+
+.right-block-footer{
+    color: white;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 668px;
+    padding-top: 71px;
+    padding-bottom: 70px;
+   
+   
+}
+
+/*middle text details*/
+.first-text{
+    padding-top: 120px;
+    padding-bottom: 120px;
+    padding-left: 130px;
+    padding-right: 530px;
+    
+   
+    
+
+}
+
+.second-text{
+    font-size: 30px;
+    margin-bottom: 24px;
+}
+
+
+/*about page details */
+
+.contact-section {
+    display: flex;
+    align-items: center;
+    padding: 74px 130px 183px;
+    background-color: pink;
+
+}
+
+.left-text {
+    
+    padding-right: 20px;
+}
+
+
+
+.big-name {
+    font-size: 20px;
+}
+
+
+
+
+/*contact page details */
+
+.section-contact-bg{
+    background-color: pink;
+    
+    padding-left: 130px;
+    
+}
+.left-contact{
+    padding-top: 78px;
+    padding-bottom: 326px;
+
+    display: inline-block;
+    vertical-align: top;
+    
+}
+.rigt-contact{
+    display: inline-block;
+    width: 680px;
+    height: 374px;
+    vertical-align: middle;
+    margin-left: 177px;
+    padding-bottom: 94px;
+    padding-top: 74px;
+    
+}
+
+.map{
+    padding-right: 130px;
+    width: 100%;
+    height: 100%;
+}
+
+
+
